@@ -1,4 +1,4 @@
 # HALs
 hal_attribute(aoscp_displayengine)
-hal_attribute(lineage_touch)
+hal_attribute(aoscp_touch)
 hal_attribute(lineage_trust)
