@@ -1,4 +1,2 @@
 vendor.aoscp.displayengine::IDisplayModes            u:object_r:hal_aoscp_displayengine_hwservice:s0
 vendor.aoscp.touch::IFingerprintNavigation           u:object_r:hal_aoscp_touch_hwservice:s0
-vendor.lineage.power::ILineagePower                  u:object_r:hal_power_hwservice:s0
-vendor.lineage.trust::IUsbRestrict                   u:object_r:hal_lineage_trust_hwservice:s0
