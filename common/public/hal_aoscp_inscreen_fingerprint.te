@@ -1,0 +1,5 @@
+# HwBinder IPC from client to server
+binder_call(hal_aoscp_inscreen_fingerprint_client, hal_aoscp_inscreen_fingerprint_server)
+
+add_hwservice(hal_aoscp_inscreen_fingerprint_server, hal_aoscp_inscreen_fingerprint_hwservice)
+allow hal_aoscp_inscreen_fingerprint_client hal_aoscp_inscreen_fingerprint_hwservice:hwservice_manager find;
