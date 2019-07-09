@@ -1,4 +1,5 @@
 # HALs
+hal_attribute(lineage_camera_motor)
 hal_attribute(lineage_fod)
 hal_attribute(aoscp_displayengine)
 hal_attribute(aoscp_touch)
