@@ -1,4 +1,4 @@
 # HALs
-hal_attribute(aoscp_inscreen_fingerprint)
+hal_attribute(lineage_fod)
 hal_attribute(aoscp_displayengine)
 hal_attribute(aoscp_touch)

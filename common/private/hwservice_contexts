@@ -1,4 +1,4 @@
-vendor.aoscp.biometrics.fingerprint.inscreen::IFingerprintInscreen    u:object_r:hal_aoscp_inscreen_fingerprint_hwservice:s0
+vendor.lineage.biometrics.fingerprint.inscreen::IFingerprintInscreen    u:object_r:hal_lineage_fod_hwservice:s0
 vendor.aoscp.displayengine::IDisplayModes                             u:object_r:hal_aoscp_displayengine_hwservice:s0
 vendor.aoscp.touch::IFingerprintNavigation                            u:object_r:hal_aoscp_touch_hwservice:s0
 vendor.aoscp.touch::ITouchscreenGesture                               u:object_r:hal_aoscp_touch_hwservice:s0
